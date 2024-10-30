@@ -1,6 +1,6 @@
 # Write-Up: Boby Style CTF Challenge 😊
+
 **Challenge Name**: Maersk
-**Valeur**: 100 points
 **Description**: Le but de ce challenge est de décoder un message caché écrit dans le système "bibi-binaire" créé par le chanteur français Boby Lapointe dans les années 1960. Ce message, une fois décodé, fournit des valeurs hexadécimales qui, une fois converties en ASCII, révèlent le flag. 🕵️‍♂️  
 **Format du Flag**: `CTF-DLS{flag}`  
 **Auteur**: Los Ban DDOS  

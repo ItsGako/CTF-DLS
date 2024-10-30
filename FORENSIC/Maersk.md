@@ -2,6 +2,7 @@
 # Write-Up: Maersk CTF Challenge 🚢
 
 **Challenge Name**: Maersk  
+**Valeur**: 100 points  
 **Description**: Ce challenge a pour objectif de découvrir un flag caché dans une image Docker en simulant un cas d'espionnage industriel. Une fois l'image analysée, le flag a été récupéré à partir d'un fichier qui avait été supprimé après déchiffrement. 🔍  
 **Format du Flag**: `CTF{flag}`  
 **Auteur**: Florent  

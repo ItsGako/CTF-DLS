@@ -1,4 +1,3 @@
-
 # Write-Up: Allez Rennes 🕵️‍♂️
 
 **Nom du Challenge**: Allez Rennes  
@@ -20,7 +19,7 @@ J'ai commencé par effectuer une recherche avec les mots-clés **"Allez Rennes"*
 - Un **journal intitulé "Allez Rennes"**, datant de 1950.
 
 ### Étape 2 : Exploration du journal 📜
-Après avoir identifié l'existence de ce journal de 1950, je l'ai exploré en détail. En parcourant ses pages, j'ai découvert une mention d'une boutique située au **8 rue du Maréchal-Joffre** à Rennes, nommée **"Aux Vêtements Modernes"**.
+Après avoir identifié l'existence de ce journal de 1950, j'ai consulté ses pages pour obtenir plus de détails. Le journal est accessible en ligne ici : [Allez Rennes, Saison 1950-1951 - Numéro 7](https://bibliotheque.idbe.bzh/ViewerJS/#../data/cle_194/allez__rennes__saison__1950-1951__na__7.pdf). En parcourant le document, j'ai découvert une mention d'une boutique située au **8 rue du Maréchal-Joffre** à Rennes, nommée **"Aux Vêtements Modernes"**.
 
 ### Étape 3 : Formatage du flag 📝
 Le nom de la boutique étant trouvé, il suffit de le formater selon les indications fournies. Ainsi, cela donne :
@@ -29,4 +28,3 @@ Le nom de la boutique étant trouvé, il suffit de le formater selon les indicat
 
 ## Conclusion 🎊
 Ce challenge a mis en avant des compétences en OSINT et en recherche historique. En explorant les archives de Rennes, le nom de la boutique "Aux Vêtements Modernes" a été révélé, permettant de compléter le challenge avec succès.
-
